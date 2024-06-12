@@ -2,6 +2,13 @@
 
 This repository contains a project that implements logistic regression to analyze and predict employee turnover using the HR dataset. The dataset includes various features such as satisfaction level, last evaluation, number of projects, average monthly hours, time spent at the company, work accidents, and promotions in the last five years.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Logistic-Binary-Classification/assets/113255836/8f4260c0-ba55-471f-90fd-dff9da009c1c
+
+
+
 ## Project Overview
 
 The main objectives of this project are:
